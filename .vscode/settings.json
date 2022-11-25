@@ -1,5 +1,8 @@
 {
     "workbench.colorCustomizations": {
         "titleBar.activeBackground": "#6e5e7f"
-    }
+    },
+    "cSpell.words": [
+        "INICIO"
+    ]
 }
